@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 🚀 Some Tools I Use
 react  bootstrap css3 javascript typescript mongodb  nodejs heroku  aws ESLint
 
-  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+  <img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
