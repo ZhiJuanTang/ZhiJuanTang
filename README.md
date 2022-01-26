@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 我也会讲中文。
 - 🚀 Some Tools I Use
 react  bootstrap css3 javascript typescript mongodb  nodejs heroku  aws ESLint
+
+  <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fscripting&psig=AOvVaw1oYDWfk-dJy1MGaE4IBjtE&ust=1643325856888000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjO4IfI0PUCFQAAAAAdAAAAABAm">
