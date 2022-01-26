@@ -8,6 +8,7 @@ I'm currently graduating from WBS Coding School.
 - 📙 Check out my [resume](https://drive.google.com/file/d/13jGs42JyLwFys8GEL22kd5t62ATy_HGv/view?usp=sharing).
 - ⚡ Fun fact: 我也会讲中文。
 - 🚀 Some Tech stack I use:
+
 Frontend -------------------
 • CSS3
 • ReactJS 
