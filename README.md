@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Zhi,
+### Hi there 👋 I'm Zhi, thanks for visiting my Github profile!
 
 - 💻I'm currently graduating from WBS Coding School. 
 -  𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
