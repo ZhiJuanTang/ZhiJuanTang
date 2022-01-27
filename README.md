@@ -8,8 +8,7 @@
 - 📫 How to reach me: You can email me at tangzhijuan56@gmail.com
 - 📙 Check out my [resume](https://drive.google.com/file/d/13jGs42JyLwFys8GEL22kd5t62ATy_HGv/view?usp=sharing).
 - ⚡ Fun fact: 我也会讲中文。
-- 🚀 </p>
-<h3 align="left">Languages and Tools:</h3>
+- 🚀 Languages and Tools:
 <p align="left"> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> </a>
@@ -40,4 +39,4 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/zhi-juan-tang-dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
  <a href="https://github.com/ZhiJuanTang/ZhiJuanTang/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="" height="30" width="40" /></a>
-
+</p>
