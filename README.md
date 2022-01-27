@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Zhi,
 
 - 💻I'm currently graduating from WBS Coding School. 
-- 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+-  𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 - 🖖 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 REACT.
 - 🔭 I’m currently working on improving my website: [Marry In The Dream Castle](https://github.com/ZhiJuanTang/Castle_Frontend.git)
 - 🌱 I’m currently learning basic TypeScript.
