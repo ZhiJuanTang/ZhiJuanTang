@@ -29,7 +29,8 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="figma" width="40" height="40"/> </a> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="figma" width="40" height="40"/> </a>  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
- <img src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg" alt="figma" width="40" height="40"/> </a> </p>
+ <img src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg" alt="figma" width="40" height="40"/> </a> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> </p>
  
  
   <img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
