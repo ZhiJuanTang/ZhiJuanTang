@@ -8,57 +8,36 @@
 - 📫 How to reach me: You can email me at tangzhijuan56@gmail.com
 - 📙 Check out my [resume](https://drive.google.com/file/d/13jGs42JyLwFys8GEL22kd5t62ATy_HGv/view?usp=sharing).
 - ⚡ Fun fact: 我也会讲中文。
-- 🚀 Some Tech stack I use:
-
-Frontend -------------------
-• CSS3
-• ReactJS 
-• ESLint
-• Typescript
-
-Backend --------------------
-• NodeJS/ExpressJS
-• RESTful API
-
- Databases--------------------
-• MongoDB
-• PostgreSQL
-•AWS Cloud
-
- Version Control -------------
-• Git and GitHub 
-
+- 🚀 </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> </a>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="figma" width="40" height="40"/> </a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="figma" width="40" height="40"/> </a> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="figma" width="40" height="40"/> </a>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="figma" width="40" height="40"/> </a>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="git" width="40" height="40"/> </a> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> </a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" width="40" height="40"/> </a>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="figma" width="40" height="40"/> </a>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" width="40" height="40"/> </a>
+ <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="figma" width="40" height="40"/> </a> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
+ </p>
+ 
+ 
   <img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/zhi-juan-tang-dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
  <a href="https://github.com/ZhiJuanTang/ZhiJuanTang/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="" height="30" width="40" /></a>
-</p>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/express/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> </a>
- <a href="https://codepen.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" width="40" height="40"/> </a>
- <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" width="40" height="40"/> </a>
- <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="figma" width="40" height="40"/> </a> 
- <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
- <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
- <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
- <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> </a>
- <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
- <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="figma" width="40" height="40"/> </a> 
- <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
- <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="figma" width="40" height="40"/> </a>  
- <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
- <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
- <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="figma" width="40" height="40"/> </a>  
- <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="figma" width="40" height="40"/> </a>  
- <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
-
- </p>
