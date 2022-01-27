@@ -38,17 +38,25 @@ Backend --------------------
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/express/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> </a>
  <a href="https://codepen.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" width="40" height="40"/> </a>
- <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
- <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
- <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
- <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
- <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
- <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
- <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" width="40" height="40"/> </a>
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="figma" width="40" height="40"/> </a> 
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> </a>
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="figma" width="40" height="40"/> </a> 
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="figma" width="40" height="40"/> </a>  
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="figma" width="40" height="40"/> </a>  
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="figma" width="40" height="40"/> </a>  
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
 
-</p>
+ </p>
