@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on improving my website: [Marry In The Dream Castle](https://github.com/ZhiJuanTang/Castle_Frontend.git)
 - 🌱 I’m currently learning basic TypeScript.
 - 📫 How to reach me: You can email me at tangzhijuan56@gmail.com
-- 📙 Check out my [resume](https://drive.google.com/file/d/1LPjsUOsFK1CrMOb1tgGItkHEVIMRR7qK/view?usp=sharing).
+- 📙 Check out my [resume](https://drive.google.com/file/d/1IlUzzow4RJX6IKgoG-LjQ7LWCN_HesDs/view?usp=sharing).
 - ⚡ Fun fact: 我也会讲中文。
 - 🚀 Languages and Tools:
 <p align="left"> 
