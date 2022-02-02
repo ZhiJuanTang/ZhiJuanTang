@@ -38,8 +38,8 @@
 <a href="https://www.linkedin.com/in/zhi-juan-tang-dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
 
- [<img align="left" alt="Coding" width="500" src="https://media.giphy.com/media/DvXFOquaoniEWZXVzs/giphy.gif">](https://drive.google.com/file/d/1qB8J-udvGYKz7cJ2Z4XNivkv_cMlv1pX/view?usp=sharing)
- <img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+ [<img align="left" alt="Coding" width="480" src="https://media.giphy.com/media/DvXFOquaoniEWZXVzs/giphy.gif">](https://drive.google.com/file/d/1qB8J-udvGYKz7cJ2Z4XNivkv_cMlv1pX/view?usp=sharing)
+ <img align="right" alt="Coding" width="480" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
  
  
