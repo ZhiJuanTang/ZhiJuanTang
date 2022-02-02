@@ -37,8 +37,8 @@
  <img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
  
-  [<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/DvXFOquaoniEWZXVzs">](https://drive.google.com/file/d/1qB8J-udvGYKz7cJ2Z4XNivkv_cMlv1pX/view?usp=sharing)
-  
+  [<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/DvXFOquaoniEWZXVzs/giphy.gif">](https://drive.google.com/file/d/1qB8J-udvGYKz7cJ2Z4XNivkv_cMlv1pX/view?usp=sharing)
+ 
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
