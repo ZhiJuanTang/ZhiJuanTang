@@ -4,11 +4,10 @@
 -  𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 - 🖖 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 REACT.
 
-- 📫 How to reach me: You can email me at tangzhijuan56@gmail.com
+- 📫 How to reach me: You can email me at tangzhijuan56@gmail.com  or 
+<a href="https://www.linkedin.com/in/zhi-juan-tang-dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 - 📙 Check out my [resume](https://drive.google.com/file/d/1IlUzzow4RJX6IKgoG-LjQ7LWCN_HesDs/view?usp=sharing).
 - ⚡ Fun fact: 我也会讲中文。
-- 🖖 Connect with me:
-<a href="https://www.linkedin.com/in/zhi-juan-tang-dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 - 🚀 Languages and Tools:
 <p align="left"> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
