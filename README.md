@@ -33,10 +33,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="figma" width="40" height="40"/> </a>  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
  <img src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg" alt="figma" width="40" height="40"/> </a> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> </p>
- <h3 align="left">Connect with me:</h3>
-<p align="left">
+- <h3 align="left">Connect with me:</h3>
+
 <a href="https://www.linkedin.com/in/zhi-juan-tang-dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-</p>
+
 
  [<img align="left" alt="Coding" width="480" src="https://media.giphy.com/media/DvXFOquaoniEWZXVzs/giphy.gif">](https://drive.google.com/file/d/1qB8J-udvGYKz7cJ2Z4XNivkv_cMlv1pX/view?usp=sharing)
  <img align="right" alt="Coding" width="480" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
