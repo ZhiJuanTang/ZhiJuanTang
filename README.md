@@ -36,7 +36,7 @@
 - 🔭 I’m currently working on improving my website: 
 - [Marry In The Dream Castle Frontend](https://github.com/ZhiJuanTang/Castle_Frontend.git)
 - [ Backend](https://github.com/ZhiJuanTang/Castle_Backend.git)
-- [Video](https://drive.google.com/file/d/1qB8J-udvGYKz7cJ2Z4XNivkv_cMlv1pX/view?usp=sharing)
+- [Video](https://drive.google.com/file/d/1qB8J-udvGYKz7cJ2Z4XNivkv_cMlv1pX/view?usp=sharing) :
 
  [<img align="left" alt="Coding" width="480" src="https://media.giphy.com/media/DvXFOquaoniEWZXVzs/giphy.gif">](https://drive.google.com/file/d/1qB8J-udvGYKz7cJ2Z4XNivkv_cMlv1pX/view?usp=sharing)
  <img align="right" alt="Coding" width="480" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
