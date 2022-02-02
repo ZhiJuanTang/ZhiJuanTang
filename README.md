@@ -35,7 +35,8 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> </p>
  
  
-  <img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+  [<img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">](https://drive.google.com/file/d/1qB8J-udvGYKz7cJ2Z4XNivkv_cMlv1pX/view?usp=sharing)
+  
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
