@@ -3,7 +3,7 @@
 - 💻I'm currently graduating from WBS Coding School. 
 -  𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 - 🖖 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 REACT.
-- 🔭 I’m currently working on improving my website: [Marry In The Dream Castle](https://github.com/ZhiJuanTang/Castle_Frontend.git)
+- 🔭 I’m currently working on improving my website: [Marry In The Dream Castle](https://drive.google.com/file/d/1qB8J-udvGYKz7cJ2Z4XNivkv_cMlv1pX/view?usp=sharing)
 - 🌱 I’m currently learning basic TypeScript.
 - 📫 How to reach me: You can email me at tangzhijuan56@gmail.com
 - 📙 Check out my [resume](https://drive.google.com/file/d/1IlUzzow4RJX6IKgoG-LjQ7LWCN_HesDs/view?usp=sharing).
