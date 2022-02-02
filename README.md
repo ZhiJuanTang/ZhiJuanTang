@@ -33,8 +33,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="figma" width="40" height="40"/> </a>  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
  <img src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg" alt="figma" width="40" height="40"/> </a> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> </p>
-- <h3 align="left">Connect with me:</h3>
-
+-Connect with me
 <a href="https://www.linkedin.com/in/zhi-juan-tang-dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 
 
