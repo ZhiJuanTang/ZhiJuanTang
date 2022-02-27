@@ -6,7 +6,8 @@
 
 - 📫 How to reach me: You can email me at tangzhijuan56@gmail.com  or 
 <a href="https://www.linkedin.com/in/zhi-juan-tang-dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-- 📙 Check out my [resume](https://drive.google.com/file/d/1IlUzzow4RJX6IKgoG-LjQ7LWCN_HesDs/view?usp=sharing).
+- 📙 Check out my [Resume](https://drive.google.com/file/d/1IlUzzow4RJX6IKgoG-LjQ7LWCN_HesDs/view?usp=sharing).
+- - 📙 Check out my [Portfolio](https://zhijuantangportfolio.netlify.app/).
 - ⚡ Fun fact: 我也会讲中文。
 - 🚀 Languages and Tools:
 <p align="left"> 
