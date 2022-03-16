@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Zhijuan Tang, thanks for visiting my Github profile!
+### Hi there 👋 I'm Zhijuan Tang, I am a Software Engineer with a focus on Frontend Technologies. Thanks for visiting my Github profile!
 
 - 💻I'm currently graduating from WBS Coding School. 
 - ❤️ 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
